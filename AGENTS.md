@@ -170,6 +170,7 @@ Markdown 是给学习者看的讲义
 
 - `第九章-Vibe Coding实战/9-1.什么是Vibe Coding 本质是什么.md`
 - `第九章-Vibe Coding实战/9-2.Vibe Coding 适合做什么 不适合做什么.md`
+- `第九章-Vibe Coding实战/9-3.怎么把需求交给AI.md`
 
 第九章当前建议逻辑顺序是
 
